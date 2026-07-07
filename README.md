@@ -93,19 +93,19 @@ src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
+<img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,laravel"/>
+<img align="center" src="https://skillicons.dev/icons?i=nodejs,express,python,laravel"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
+<img align="center" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
+<img align="center" src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
 
 </p>
 
