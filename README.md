@@ -92,24 +92,16 @@ src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 # ⚡ Core Technologies
 
 <p align="center">
-
 <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
 </p>
-<br><br>
 <p align="center">
-
 <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,python,laravel"/>
 </p>
-<br><br>
 <p align="center">
-
 <img align="center" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
 </p>
-<br><br>
 <p align="center">
-
 <img align="center" src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
-
 </p>
 
 ---
