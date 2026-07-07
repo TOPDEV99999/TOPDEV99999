@@ -93,14 +93,10 @@ src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
-</p>
-<p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,python,laravel"/>
 </p>
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
-</p>
-<p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
 </p>
 
