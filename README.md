@@ -1,8 +1,97 @@
-{
-  "owner": "TOPDEV99999",
-  "repo": "TOPDEV99999",
-  "path": "README.md",
-  "content": "# Hi, I'm Lixandru Daniel Nicolae 👋\n\n<style>\n  @keyframes wave {\n    0% { transform: rotate(0deg); }\n    10% { transform: rotate(14deg); }\n    20% { transform: rotate(-8deg); }\n    30% { transform: rotate(14deg); }\n    40% { transform: rotate(-4deg); }\n    50% { transform: rotate(10deg); }\n    60% { transform: rotate(0deg); }\n    100% { transform: rotate(0deg); }\n  }\n\n  @keyframes bounce {\n    0%, 100% { transform: translateY(0); }\n    50% { transform: translateY(-10px); }\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; transform: scale(1); }\n    50% { opacity: 0.8; transform: scale(1.05); }\n    100% { opacity: 1; transform: scale(1); }\n  }\n\n  @keyframes fadeInDown {\n    from {\n      opacity: 0;\n      transform: translateY(-20px);\n    }\n    to {\n      opacity: 1;\n      transform: translateY(0);\n    }\n  }\n\n  @keyframes slideInLeft {\n    from {\n      opacity: 0;\n      transform: translateX(-30px);\n    }\n    to {\n      opacity: 1;\n      transform: translateX(0);\n    }\n  }\n\n  @keyframes slideInRight {\n    from {\n      opacity: 0;\n      transform: translateX(30px);\n    }\n    to {\n      opacity: 1;\n      transform: translateX(0);\n    }\n  }\n\n  @keyframes glow {\n    0% { text-shadow: 0 0 5px rgba(61, 218, 251, 0.5); }\n    50% { text-shadow: 0 0 20px rgba(61, 218, 251, 0.8); }\n    100% { text-shadow: 0 0 5px rgba(61, 218, 251, 0.5); }\n  }\n\n  .wave {\n    animation: wave 0.6s ease-in-out;\n    display: inline-block;\n    transform-origin: 70% 70%;\n  }\n\n  .bounce {\n    animation: bounce 2s ease-in-out infinite;\n    display: inline-block;\n  }\n\n  .pulse {\n    animation: pulse 2s ease-in-out infinite;\n  }\n\n  .fade-in-down {\n    animation: fadeInDown 0.8s ease-out;\n  }\n\n  .slide-in-left {\n    animation: slideInLeft 0.8s ease-out;\n  }\n\n  .slide-in-right {\n    animation: slideInRight 0.8s ease-out;\n  }\n\n  .glow {\n    animation: glow 2s ease-in-out infinite;\n  }\n</style>\n\n<p align=\"center\" class=\"fade-in-down\">\n  <span class=\"wave\">👋</span>\n</p>\n\n<p align=\"center\" class=\"fade-in-down\">\n  <img src=\"https://img.shields.io/badge/Full%20Stack-Developer-blue\" alt=\"Full Stack Developer\" class=\"pulse\" />\n  <img src=\"https://img.shields.io/badge/AI-Enthusiast-purple\" alt=\"AI Enthusiast\" class=\"pulse\" style=\"animation-delay: 0.2s;\" />\n  <img src=\"https://img.shields.io/badge/Web3-Explorer-orange\" alt=\"Web3 Explorer\" class=\"pulse\" style=\"animation-delay: 0.4s;\" />\n</p>\n\n<p align=\"center\" class=\"fade-in-down\">\n  <strong class=\"glow\">8+ years crafting scalable, intelligent, and user-centric digital experiences.</strong>\n</p>\n\n## <span class=\"slide-in-left\">About Me</span>\n\nI'm a dedicated Full-Stack Software Engineer from Bucharest, Romania, with more than 8 years of professional experience building robust web applications and innovative digital solutions.\n\nMy work spans the full development lifecycle — from crafting responsive interfaces to architecting scalable backend systems and integrating AI-powered features. I enjoy building products with React, modern frameworks, and cutting-edge technologies.\n\n> <span class=\"bounce\">\"Great software is built where innovation meets simplicity.\"</span>\n\n## <span class=\"slide-in-left\">🛠 Tech Arsenal</span>\n\n### <span class=\"slide-in-right\">Frontend</span>\n<p align=\"center\" class=\"fade-in-down\">\n  <img src=\"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB\" alt=\"React\" class=\"pulse\" />\n  <img src=\"https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white\" alt=\"Next.js\" class=\"pulse\" style=\"animation-delay: 0.1s;\" />\n  <img src=\"https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white\" alt=\"TypeScript\" class=\"pulse\" style=\"animation-delay: 0.2s;\" />\n  <img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\" alt=\"JavaScript\" class=\"pulse\" style=\"animation-delay: 0.3s;\" />\n  <img src=\"https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white\" alt=\"Tailwind CSS\" class=\"pulse\" style=\"animation-delay: 0.4s;\" />\n  <img src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\" alt=\"HTML5\" class=\"pulse\" style=\"animation-delay: 0.5s;\" />\n  <img src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\" alt=\"CSS3\" class=\"pulse\" style=\"animation-delay: 0.6s;\" />\n</p>\n\n### <span class=\"slide-in-right\">Backend</span>\n<p align=\"center\" class=\"fade-in-down\">\n  <img src=\"https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white\" alt=\"Node.js\" class=\"pulse\" />\n  <img src=\"https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white\" alt=\"Express.js\" class=\"pulse\" style=\"animation-delay: 0.1s;\" />\n  <img src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\" alt=\"Python\" class=\"pulse\" style=\"animation-delay: 0.2s;\" />\n  <img src=\"https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white\" alt=\"Laravel\" class=\"pulse\" style=\"animation-delay: 0.3s;\" />\n  <img src=\"https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white\" alt=\"PHP\" class=\"pulse\" style=\"animation-delay: 0.4s;\" />\n  <img src=\"https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white\" alt=\"REST APIs\" class=\"pulse\" style=\"animation-delay: 0.5s;\" />\n  <img src=\"https://img.shields.io/badge/Microservices-4EAA25?style=for-the-badge&logo=microgenetics&logoColor=white\" alt=\"Microservices\" class=\"pulse\" style=\"animation-delay: 0.6s;\" />\n</p>\n\n### <span class=\"slide-in-right\">AI & Machine Learning</span>\n<p align=\"center\" class=\"fade-in-down\">\n  <img src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\" alt=\"Python\" class=\"pulse\" />\n  <img src=\"https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white\" alt=\"OpenAI\" class=\"pulse\" style=\"animation-delay: 0.1s;\" />\n  <img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white\" alt=\"TensorFlow\" class=\"pulse\" style=\"animation-delay: 0.2s;\" />\n  <img src=\"https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white\" alt=\"OpenCV\" class=\"pulse\" style=\"animation-delay: 0.3s;\" />\n  <img src=\"https://img.shields.io/badge/Prompt_Engineering-4A4A4A?style=for-the-badge&logo=chatbot&logoColor=white\" alt=\"Prompt Engineering\" class=\"pulse\" style=\"animation-delay: 0.4s;\" />\n</p>\n\n### <span class=\"slide-in-right\">Blockchain & Web3</span>\n<p align=\"center\" class=\"fade-in-down\">\n  <img src=\"https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white\" alt=\"Solidity\" class=\"pulse\" />\n  <img src=\"https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white\" alt=\"Ethereum\" class=\"pulse\" style=\"animation-delay: 0.1s;\" />\n  <img src=\"https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white\" alt=\"Web3.js\" class=\"pulse\" style=\"animation-delay: 0.2s;\" />\n</p>\n\n### <span class=\"slide-in-right\">Databases & Tools</span>\n<p align=\"center\" class=\"fade-in-down\">\n  <img src=\"https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white\" alt=\"MongoDB\" class=\"pulse\" />\n  <img src=\"https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white\" alt=\"PostgreSQL\" class=\"pulse\" style=\"animation-delay: 0.1s;\" />\n  <img src=\"https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white\" alt=\"MySQL\" class=\"pulse\" style=\"animation-delay: 0.2s;\" />\n  <img src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\" alt=\"Git\" class=\"pulse\" style=\"animation-delay: 0.3s;\" />\n  <img src=\"https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white\" alt=\"Docker\" class=\"pulse\" style=\"animation-delay: 0.4s;\" />\n  <img src=\"https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white\" alt=\"CI/CD\" class=\"pulse\" style=\"animation-delay: 0.5s;\" />\n  <img src=\"https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white\" alt=\"Agile\" class=\"pulse\" style=\"animation-delay: 0.6s;\" />\n</p>\n\n## <span class=\"slide-in-left\">🔥 Featured Projects</span>\n\n- <span class=\"pulse\">**DermaIQ**</span> — AI-powered skin disease detection platform built with Python and machine learning.\n- <span class=\"pulse\">**Face Swap**</span> — Real-time AI application for facial recognition and image blending.\n- <span class=\"pulse\">**Blinkify**</span> — Modern blockchain dashboard with wallet connectivity and live data visualization.\n- <span class=\"pulse\">**MERN E-commerce Platform**</span> — Scalable online store with authentication, payments, and admin features.\n- <span class=\"pulse\">**Real-Time Dating Platform**</span> — Social app with matching, messaging, and media upload support.\n\n## <span class=\"slide-in-left\">🎓 Education</span>\n\n**Bachelor of Science (B.Sc.) in Computer Science**  \nUniversity of Bucharest, Romania (2014 – 2017)\n\n- Focused on software engineering, algorithms, and web development\n- Worked on Agile team projects using Git and modern full-stack technologies\n\n## <span class=\"slide-in-left\">📬 Let's Connect</span>\n\nI'm always interested in new challenges, collaborations, and meaningful projects.\n\n- **Email:** uhajucewog80@gmail.com\n- **Phone:** +40 756 216 117\n\n---\n\n<p align=\"center\" class=\"bounce\">Happy Coding! 🚀</p>\n",
-  "message": "Add animation effects to README.md\"",
-  "sha": "2104954e7f7a430f4dc1641cceddb791541f4188"
-}
+# Hi, I'm Lixandru Daniel Nicolae 👋
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Web3-Explorer-orange" alt="Web3 Explorer" />
+</p>
+
+<p align="center">
+  <strong>8+ years crafting scalable, intelligent, and user-centric digital experiences.</strong>
+</p>
+
+## About Me
+
+I'm a dedicated Full-Stack Software Engineer from Bucharest, Romania, with more than 8 years of professional experience building robust web applications and innovative digital solutions.
+
+My work spans the full development lifecycle — from crafting responsive interfaces to architecting scalable backend systems and integrating AI-powered features. I enjoy building products with React, Next.js, Node.js, Python, TypeScript, and modern Web3 technologies.
+
+> “Great software is built where innovation meets simplicity.”
+
+## 🛠 Tech Arsenal
+
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-4EAA25?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices" />
+</p>
+
+### AI & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4A4A4A?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+### Blockchain & Web3
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
+</p>
+
+### Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+</p>
+
+## 🔥 Featured Projects
+
+- **DermaIQ** — AI-powered skin disease detection platform built with Python and machine learning.
+- **Face Swap** — Real-time AI application for facial recognition and image blending.
+- **Blinkify** — Modern blockchain dashboard with wallet connectivity and live data visualization.
+- **MERN E-commerce Platform** — Scalable online store with authentication, payments, and admin features.
+- **Real-Time Dating Platform** — Social app with matching, messaging, and media upload support.
+
+## 🎓 Education
+
+**Bachelor of Science (B.Sc.) in Computer Science**  
+University of Bucharest, Romania (2014 – 2017)
+
+- Focused on software engineering, algorithms, and web development
+- Worked on Agile team projects using Git and modern full-stack technologies
+
+## 📬 Let’s Connect
+
+I’m always interested in new challenges, collaborations, and meaningful projects.
+
+- **Email:** uhajucewog80@gmail.com
+- **Phone:** +40 756 216 117
+
+---
+
+<p align="center">Happy Coding! 🚀</p>
