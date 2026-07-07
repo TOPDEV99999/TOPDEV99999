@@ -10,13 +10,17 @@
   <strong>8+ years crafting scalable, intelligent, and user-centric digital experiences.</strong>
 </p>
 
+---
+
 ## About Me
 
 I'm a dedicated Full-Stack Software Engineer from Bucharest, Romania, with more than 8 years of professional experience building robust web applications and innovative digital solutions.
 
-My work spans the full development lifecycle — from crafting responsive interfaces to architecting scalable backend systems and integrating AI-powered features. I enjoy building products with React, Next.js, Node.js, Python, TypeScript, and modern Web3 technologies.
+My work spans the full development lifecycle — from crafting responsive interfaces to architecting scalable backend systems and integrating AI-powered features. I enjoy building products with React, Node.js, and cutting-edge AI technologies.
 
-> “Great software is built where innovation meets simplicity.”
+> "Great software is built where innovation meets simplicity."
+
+---
 
 ## 🛠 Tech Arsenal
 
@@ -69,6 +73,8 @@ My work spans the full development lifecycle — from crafting responsive interf
   <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
 </p>
 
+---
+
 ## 🔥 Featured Projects
 
 - **DermaIQ** — AI-powered skin disease detection platform built with Python and machine learning.
@@ -76,6 +82,8 @@ My work spans the full development lifecycle — from crafting responsive interf
 - **Blinkify** — Modern blockchain dashboard with wallet connectivity and live data visualization.
 - **MERN E-commerce Platform** — Scalable online store with authentication, payments, and admin features.
 - **Real-Time Dating Platform** — Social app with matching, messaging, and media upload support.
+
+---
 
 ## 🎓 Education
 
@@ -85,9 +93,11 @@ University of Bucharest, Romania (2014 – 2017)
 - Focused on software engineering, algorithms, and web development
 - Worked on Agile team projects using Git and modern full-stack technologies
 
-## 📬 Let’s Connect
+---
 
-I’m always interested in new challenges, collaborations, and meaningful projects.
+## 📬 Let's Connect
+
+I'm always interested in new challenges, collaborations, and meaningful projects.
 
 - **Email:** uhajucewog80@gmail.com
 - **Phone:** +40 756 216 117
