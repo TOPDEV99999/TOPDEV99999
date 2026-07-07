@@ -1,97 +1,695 @@
-# Hi, I'm Lixandru Daniel Nicolae 👋
+<!-- ====================================================== -->
+<!--                ANIMATED HEADER                         -->
+<!-- ====================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B82F6,100:06B6D4&text=Lixandru%20Daniel%20Nicolae&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<h1 align="center">
+Hi 👋 I'm Lixandru Daniel Nicolae
+</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Engineer • Web3 Explorer
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-purple" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Web3-Explorer-orange" alt="Web3 Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+Developer;Python+%7C+AI+Engineer;Building+Modern+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
-
-<p align="center">
-  <strong>8+ years crafting scalable, intelligent, and user-centric digital experiences.</strong>
-</p>
-
-## About Me
-
-I'm a dedicated Full-Stack Software Engineer from Bucharest, Romania, with more than 8 years of professional experience building robust web applications and innovative digital solutions.
-
-My work spans the full development lifecycle — from crafting responsive interfaces to architecting scalable backend systems and integrating AI-powered features. I enjoy building products with React, Next.js, Node.js, Python, TypeScript, and modern Web3 technologies.
-
-> “Great software is built where innovation meets simplicity.”
-
-## 🛠 Tech Arsenal
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Microservices-4EAA25?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices" />
-</p>
-
-### AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-4A4A4A?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering" />
-</p>
-
-### Blockchain & Web3
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
-</p>
-
-### Databases & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-</p>
-
-## 🔥 Featured Projects
-
-- **DermaIQ** — AI-powered skin disease detection platform built with Python and machine learning.
-- **Face Swap** — Real-time AI application for facial recognition and image blending.
-- **Blinkify** — Modern blockchain dashboard with wallet connectivity and live data visualization.
-- **MERN E-commerce Platform** — Scalable online store with authentication, payments, and admin features.
-- **Real-Time Dating Platform** — Social app with matching, messaging, and media upload support.
-
-## 🎓 Education
-
-**Bachelor of Science (B.Sc.) in Computer Science**  
-University of Bucharest, Romania (2014 – 2017)
-
-- Focused on software engineering, algorithms, and web development
-- Worked on Agile team projects using Git and modern full-stack technologies
-
-## 📬 Let’s Connect
-
-I’m always interested in new challenges, collaborations, and meaningful projects.
-
-- **Email:** uhajucewog80@gmail.com
-- **Phone:** +40 756 216 117
 
 ---
 
-<p align="center">Happy Coding! 🚀</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TOPDEV99999&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/TOPDEV99999?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/TOPDEV99999?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+
+<a href="mailto:uhajucewog80@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TOPDEV99999">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💻 About Me
+
+```javascript
+const lixandru = {
+
+    location: "Bucharest, Romania",
+
+    role: "Full Stack Software Engineer",
+
+    experience: "8+ Years",
+
+    currentFocus: [
+        "Artificial Intelligence",
+        "Modern SaaS",
+        "Cloud Applications",
+        "Web3"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express",
+        "Python",
+        "Laravel",
+        "PHP"
+    ],
+
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+    ],
+
+    tools: [
+        "Docker",
+        "Git",
+        "GitHub Actions",
+        "VS Code"
+    ]
+}
+```
+
+---
+
+# 🚀 Currently Working On
+
+- 🤖 AI Powered Applications
+
+- 🌐 Full Stack SaaS Products
+
+- ⚡ Next.js Enterprise Solutions
+
+- 🧠 Machine Learning Integrations
+
+- 🔥 Open Source Projects
+
+---
+
+# ⚡ Fun Fact
+
+> Great software isn't just written.
+>
+> It is designed, tested, optimized, and continuously improved.
+
+---
+
+<p align="center">
+
+<img
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+width="700"/>
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,python,php,laravel,mongodb,postgres,mysql,docker,git,github,vscode,linux,vercel,firebase&perline=11"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=TOPDEV99999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOPDEV99999&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=TOPDEV99999&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=TOPDEV99999&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=TOPDEV99999&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💼 Professional Skills
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="150">
+
+💻
+
+### Frontend
+
+React
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+HTML5
+
+CSS3
+
+</td>
+
+<td align="center" width="150">
+
+⚙️
+
+### Backend
+
+Node.js
+
+Express.js
+
+Laravel
+
+PHP
+
+Python
+
+REST API
+
+</td>
+
+<td align="center" width="150">
+
+🗄️
+
+### Database
+
+MongoDB
+
+PostgreSQL
+
+MySQL
+
+Firebase
+
+Redis
+
+</td>
+
+<td align="center" width="150">
+
+☁️
+
+### DevOps
+
+Docker
+
+Git
+
+GitHub
+
+CI/CD
+
+Linux
+
+Vercel
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌟 What I Do
+
+✅ Build scalable web applications
+
+✅ Design REST APIs
+
+✅ AI-powered software
+
+✅ ChatGPT integrations
+
+✅ SaaS Platforms
+
+✅ Dashboard Systems
+
+✅ Authentication Systems
+
+✅ Payment Integration
+
+✅ Cloud Deployment
+
+✅ Database Design
+
+---
+
+# 🎯 My Development Workflow
+
+```text
+💡 Idea
+      │
+      ▼
+🎨 UI/UX Design
+      │
+      ▼
+⚙️ Full Stack Development
+      │
+      ▼
+🧪 Testing
+      │
+      ▼
+🚀 Deployment
+      │
+      ▼
+📈 Continuous Improvement
+```
+
+---
+
+# ⚡ Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+---
+
+# 🚀 Featured Projects
+
+Coming next...# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 DermaIQ
+
+AI-powered skin disease detection platform built with Python and Deep Learning.
+
+### Features
+
+- 🔥 TensorFlow
+- 🤖 AI Image Classification
+- 📷 Upload & Analyze
+- 📊 Prediction Dashboard
+- ☁️ Cloud Deployment
+
+**Tech**
+
+`Python`
+`TensorFlow`
+`OpenCV`
+`Flask`
+`MongoDB`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=DermaIQ&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🛒 MERN E-Commerce
+
+Modern shopping platform with secure authentication and online payments.
+
+### Features
+
+- Authentication
+- Shopping Cart
+- Stripe Payments
+- Admin Dashboard
+- Order Tracking
+- Product Reviews
+
+**Tech**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=MERN-Ecommerce&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💬 Real-Time Chat
+
+A scalable messaging platform supporting thousands of concurrent users.
+
+### Features
+
+- Live Messaging
+- Video Calling
+- Notifications
+- Media Upload
+- Online Status
+
+**Tech**
+
+`React`
+
+`Socket.io`
+
+`Node.js`
+
+`MongoDB`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=Realtime-Chat&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Blinkify
+
+Blockchain dashboard for cryptocurrency analytics.
+
+### Features
+
+- Wallet Connect
+- NFT Viewer
+- Live Prices
+- Trading Dashboard
+- Analytics
+
+**Tech**
+
+`Next.js`
+
+`Web3.js`
+
+`Solidity`
+
+`TypeScript`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=Blinkify&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TOPDEV99999&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TOPDEV99999&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TOPDEV99999&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TOPDEV99999&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TOPDEV99999&theme=tokyonight&utcOffset=2"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Build production-ready AI SaaS products
+- 🌍 Contribute more to open source
+- 📚 Master cloud-native architecture
+- 🤖 Create advanced AI agents
+- ☁️ Earn AWS and Azure certifications
+- 📱 Publish cross-platform applications
+- 💼 Collaborate with global engineering teams
+
+---
+
+# 📚 Currently Learning
+
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Agents
+- ☁️ Kubernetes
+- 🔥 Microservices
+- 🐳 Docker Swarm
+- 🌍 AWS
+- ⚙️ System Design
+- 🔒 Cybersecurity
+- 📊 Data Engineering
+
+---
+
+# 💡 Motto
+
+> **"Code with purpose. Build with passion. Learn without limits."**
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:uhajucewog80@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TOPDEV99999">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Available For
+
+<p align="center">
+
+✅ Full Stack Development
+
+✅ AI Development
+
+✅ SaaS Applications
+
+✅ REST API Development
+
+✅ React / Next.js
+
+✅ Node.js
+
+✅ Python
+
+✅ Laravel
+
+✅ Database Design
+
+✅ Cloud Deployment
+
+</p>
+
+---
+
+# 💻 Daily Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,php,laravel,mongodb,postgres,docker,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create `.github/workflows/snake.yml` first.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TOPDEV99999/TOPDEV99999/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+If you enjoy my projects, consider giving them a ⭐.
+
+Open-source support is always appreciated.
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TOPDEV99999&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎵 Coding Vibes
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
+
+</p>
+
+Replace **YOUR_SPOTIFY_ID** with your Spotify user ID or remove this section if you don't use Spotify.
+
+---
+
+# 👨‍💻 Thanks for Visiting!
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Thank+You+For+Visiting!;Let's+Build+Something+Amazing!;Happy+Coding!+🚀"/>
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06B6D4,100:3B82F6&section=footer"/>
