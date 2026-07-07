@@ -94,16 +94,19 @@ src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 <p align="center">
 
 <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/>
-
+</p>
 <br><br>
+<p align="center">
 
 <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,python,laravel"/>
-
+</p>
 <br><br>
+<p align="center">
 
 <img align="center" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
-
+</p>
 <br><br>
+<p align="center">
 
 <img align="center" src="https://skillicons.dev/icons?i=docker,aws,git,linux"/>
 
@@ -138,139 +141,6 @@ AWS                ████████████████ 80%
 </p>
 
 ---
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 DermaIQ
-
-AI-powered skin disease detection platform.
-
-### Features
-
-- 🧠 TensorFlow
-- 📷 Image Classification
-- 📊 Analytics Dashboard
-- 🔐 Secure Authentication
-- ☁️ Cloud Deployment
-
-**Stack**
-
-`Python`
-
-`TensorFlow`
-
-`OpenCV`
-
-`Flask`
-
-`MongoDB`
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=DermaIQ&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Blinkify
-
-Modern Web3 Dashboard.
-
-### Features
-
-- Wallet Connect
-- NFT Viewer
-- Live Prices
-- Analytics
-- Portfolio Tracking
-
-**Stack**
-
-`Next.js`
-
-`TypeScript`
-
-`Web3.js`
-
-`Ethereum`
-
-`Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=Blinkify&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🛒 MERN E-Commerce
-
-Complete shopping platform.
-
-### Features
-
-- Authentication
-- Shopping Cart
-- Stripe Payments
-- Admin Dashboard
-- Product Reviews
-
-**Stack**
-
-`React`
-
-`Node.js`
-
-`Express`
-
-`MongoDB`
-
-`Stripe`
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPDEV99999&repo=MERN-Ecommerce&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 💼 Career Timeline
 
@@ -296,37 +166,12 @@ NOW   Building AI & SaaS Products 🚀
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=TOPDEV99999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOPDEV99999&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img
+<img align="center"
 src="https://streak-stats.demolab.com?user=TOPDEV99999&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=TOPDEV99999&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -338,15 +183,6 @@ src="https://github-profile-trophy.vercel.app/?username=TOPDEV99999&theme=tokyon
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=TOPDEV99999&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TOPDEV99999/TOPDEV99999/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -365,22 +201,6 @@ I believe software should be:
 - ♻️ Maintainable
 
 Every project I build focuses on clean architecture, performance, and user experience.
-
----
-
-# 🌟 Highlights
-
-<div align="center">
-
-| 🚀 Experience | 🤖 AI | 🌐 Web |
-|:-------------:|:-----:|:------:|
-| 8+ Years | OpenAI | React |
-
-| ⚙ Backend | ☁ Cloud | 🗄 Database |
-|:----------:|:-------:|:-----------:|
-| Node.js | Docker | PostgreSQL |
-
-</div>
 
 ---
 
