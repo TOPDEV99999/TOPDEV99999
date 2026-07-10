@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <a href="https://mern-stack-portfolio-ifdc.bolt.host/">
-<img src="https://github.com/TOPDEV99999/TOPDEV99999/blob/main/logo.png" />
+<img src="https://github.com/TOPDEV99999/TOPDEV99999/blob/main/logo.gif" />
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:2563EB,100:06B6D4&text=Lixandru%20Daniel%20Nicolae&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
